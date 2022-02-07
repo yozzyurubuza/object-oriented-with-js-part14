@@ -2,7 +2,7 @@
 
 class PersonCl {
   constructor(fullName, birthYear) {
-    this.fullName = firstName;
+    this.fullName = fullName;
     this.birthYear = birthYear;
   }
 
